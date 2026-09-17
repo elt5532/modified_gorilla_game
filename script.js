@@ -483,7 +483,7 @@ function drawGorilla(player) {
 }
 
 function drawGorillaBody() {
-  ctx.fillStyle = "black";
+  ctx.fillStyle = "Orange";
 
   ctx.beginPath();
   ctx.moveTo(0, 15);
