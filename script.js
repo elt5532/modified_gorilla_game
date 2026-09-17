@@ -355,8 +355,8 @@ function drawBackgroundSky() {
     gradient.addColorStop(1, "#27507F");
     gradient.addColorStop(0, "#58A8D8");
   } else {
-    gradient.addColorStop(1, "#C98B8F");
-    gradient.addColorStop(0, "#FFC28E");
+    gradient.addColorStop(1, "#FFB300");
+    gradient.addColorStop(0, "#C98B8F");
   }
 
   // Draw sky
